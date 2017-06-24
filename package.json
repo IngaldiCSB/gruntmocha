@@ -1,0 +1,29 @@
+{
+  "name": "gruntmocha",
+  "version": "0.0.1",
+  "description": "Sample Project to test using mocha test runner with grunt build automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IngaldiCSB/gruntmocha"
+  },
+  "keywords": [
+    "grunt",
+    "mocha"
+  ],
+  "author": "Carmine Ingaldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngaldiCSB/gruntmocha/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "grunt": "^1.0.1",
+    "grunt-mocha": "^1.0.4",
+    "mocha": "^3.4.2"
+  },
+  "homepage": "https://github.com/IngaldiCSB/gruntmocha"
+}
